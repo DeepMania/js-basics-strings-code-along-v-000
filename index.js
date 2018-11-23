@@ -1,2 +1,2 @@
 let currentUser = "Mania";
-console.log("Welcome to Flatbook, ")
+console.log("Welcome to Flatbook, " + currentUser + "!");
